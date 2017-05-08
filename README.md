@@ -444,7 +444,7 @@ Online demo is [here](http://kekeh.github.io/mydatepicker)
 * License: MIT
 
 ## Author
-* Author: kekeh
+* Author: pavan
 
 ## Keywords
 * Date picker
