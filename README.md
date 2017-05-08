@@ -2,16 +2,10 @@
 
 **Angular date picker**
 
-[![Build Status](https://travis-ci.org/kekeh/mydatepicker.svg?branch=master)](https://travis-ci.org/kekeh/mydatepicker)
-[![codecov](https://codecov.io/gh/kekeh/mydatepicker/branch/master/graph/badge.svg)](https://codecov.io/gh/kekeh/mydatepicker)
-[![npm](https://img.shields.io/npm/v/mydatepicker.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/mydatepicker)
 
 ## Description
 Highly configurable Angular date picker. Compatible with __Angular2__ and __Angular4__ versions.
 
-Online demo is [here](http://kekeh.github.io/mydatepicker)
-
-If you want to set own styles to the input box, the calendar and the clear buttons you can try [this](https://github.com/kekeh/ngx-mydatepicker)
 attribute directive date picker.
 
 ## Installation
@@ -59,9 +53,7 @@ Use one of the following three options.
 
 ### 1. ngModel binding
 
-In this option the ngModel binding is used. [Here](https://github.com/kekeh/mydatepicker/tree/master/sampleapp/sample-date-picker-access-modifier)
-is an example application. It shows how to use the __ngModel__.
-
+In this option the ngModel binding is used. 
 To use ngModel define the application class as follows:
 
 ```ts
